@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="T-FLEX_PM_test/Infrastructure.csproj" />
+  <Project Path="View/View.csproj" />
+</Solution>
